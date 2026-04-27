@@ -26,7 +26,7 @@ Inspired by real forensic DNA analysis techniques.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dna.git
+git clone https://github.com/kabincs9/dna.git
 cd dna
 
 # Run the program
