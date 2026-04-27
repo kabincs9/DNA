@@ -12,7 +12,7 @@ This program reads a CSV database of individuals and their STR counts, then comp
 
 Inspired by real forensic DNA analysis techniques.
 
-## 🎯 Features
+# 🎯 Features
 
 - ✅ Accepts command-line arguments (CSV database + DNA sequence file)
 - ✅ Counts longest consecutive repeats of multiple STRs
